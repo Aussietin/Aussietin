@@ -1,19 +1,18 @@
-```
->_ austin crozier
-```
+![>_ Austin Crozier: games, tools, self-hosted apps](assets/profile-card.png)
 
-Precision-ag tech & IT sysadmin near Mackay, QLD. Outside the day job I build
-homelab services, small dev utilities, ag tooling, and the occasional game —
-mostly to understand something by building my own version of it.
+I build games, tools and self-hosted apps. Python and AI engineering, from the Mackay region, QLD.
 
-### A few things I've built
+### Public on GitHub
 
-- [**nethealth**](https://github.com/Aussietin/nethealth) — terminal network-health monitor: live Textual TUI, per-target DNS/ping/HTTP/SSL checks, on-demand traceroute, in-app speed test, history reports
-- [**tray-indicators**](https://github.com/Aussietin/tray-indicators) — a tiny platform for Windows system-tray status lights: write one `poll()`, get rendering + menu + toasts
-- [**flowtype**](https://github.com/Aussietin/flowtype) — local hold-to-talk dictation, fully on-device (faster-whisper), no subscription, no cloud
-- [**abline-evolve**](https://github.com/Aussietin/abline-evolve) — browser idle game where a paddock of tractors teach themselves to autosteer via a genetic algorithm
-- [**PhotoSync**](https://github.com/Aussietin/PhotoSync) — offline photo organiser (CLIP search, local face grouping, dedupe), deployed as a real homelab service
+- [**nethealth**](https://github.com/Aussietin/nethealth): a terminal network-health monitor. Live Textual TUI, per-target DNS, ping, HTTP and SSL checks, on-demand traceroute, an in-app speed test and history reports. MIT.
+- [**PhotoSync**](https://github.com/Aussietin/PhotoSync): a self-hosted photo library with local CLIP search, optional on-device face grouping and duplicate detection. Runs offline on my own server. MIT.
 
-Python · TypeScript · FastAPI · Docker · Godot · homelab (Docker, Tailscale, GitHub Actions)
+### Games and other work
 
-More at [aussietin.github.io](https://aussietin.github.io)
+Games, and tools whose code is not public, are on the portfolio with a status label on each: [aussietin.github.io](https://aussietin.github.io).
+
+### How I work
+
+Built with Claude Code and Codex as pair tools; design, decisions and testing are mine.
+
+Python · TypeScript · FastAPI · Docker · Godot · three.js · homelab
